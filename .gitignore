@@ -1,0 +1,6 @@
+# Optional: Uncomment to exclude PDFs from Git if using Git LFS
+# *.pdf
+
+# System files
+.DS_Store
+Thumbs.db
